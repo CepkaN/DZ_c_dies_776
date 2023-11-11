@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+  <movie>
+    <title>The Shawshank Redemption</title>
+    <genre>Drama</genre>
+    <year>1994</year>
+    <rating>9.3</rating>
+  </movie>
+  <movie>
+    <title>The Godfather</title>
+    <genre>Crime</genre>
+    <year>1972</year>
+    <rating>9.2</rating>
+  </movie>
+  <movie>
+    <title>Pulp Fiction</title>
+    <genre>Crime</genre>
+    <year>1994</year>
+    <rating>8.9</rating>
+  </movie>
+  <movie>
+    <title>Fight Club</title>
+    <genre>Drama</genre>
+    <year>1999</year>
+    <rating>8.8</rating>
+  </movie>
+  <movie>
+    <title>Inception</title>
+    <genre>Action</genre>
+    <year>2010</year>
+    <rating>8.7</rating>
+  </movie>
+  <movie>
+    <title>The Dark Knight</title>
+    <genre>Action</genre>
+    <year>2008</year>
+    <rating>9.0</rating>
+  </movie>
+  <movie>
+    <title>Goodfellas</title>
+    <genre>Crime</genre>
+    <year>1990</year>
+    <rating>8.7</rating>
+  </movie>
+  <movie>
+    <title>Forrest Gump</title>
+    <genre>Drama</genre>
+    <year>1994</year>
+    <rating>8.8</rating>
+  </movie>
+  <movie>
+    <title>The Silence of the Lambs</title>
+    <genre>Crime</genre>
+    <year>1991</year>
+    <rating>8.6</rating>
+  </movie>
+  <movie>
+    <title>The Matrix</title>
+    <genre>Science Fiction</genre>
+    <year>1999</year>
+    <rating>8.7</rating>
+  </movie>
+  <movie>
+    <title>Schindler's List</title>
+    <genre>Biography</genre>
+    <year>1993</year>
+    <rating>8.9</rating>
+  </movie>
+  <movie>
+    <title>The Green Mile</title>
+    <genre>Crime</genre>
+    <year>1999</year>
+    <rating>8.6</rating>
+  </movie>
+  <movie>
+    <title>The Departed</title>
+    <genre>Crime</genre>
+    <year>2006</year>
+    <rating>8.5</rating>
+  </movie>
+  <movie>
+    <title>Gladiator</title>
+    <genre>Action</genre>
+    <year>2000</year>
+    <rating>8.5</rating>
+  </movie>
+  <movie>
+    <title>Back to the Future</title>
+    <genre>Adventure</genre>
+    <year>1985</year>
+    <rating>8.5</rating>
+  </movie>
+  <movie>
+    <title>The Lion King</title>
+    <genre>Animation</genre>
+    <year>1994</year>
+    <rating>8.5</rating>
+  </movie>
+  <movie>
+    <title>The Avengers</title>
+    <genre>Action</genre>
+    <year>2012</year>
+    <rating>8.0</rating>
+  </movie>
+  <movie>
+    <title>Interstellar</title>
+    <genre>Science Fiction</genre>
+    <year>2014</year>
+    <rating>8.6</rating>
+  </movie>
+  <movie>
+    <title>The Wolf of Wall Street</title>
+    <genre>Biography</genre>
+    <year>2013</year>
+    <rating>8.2</rating>
+  </movie>
+  <movie>
+    <title>The Social Network</title>
+    <genre>Biography</genre>
+    <year>2010</year>
+    <rating>7.7</rating>
+  </movie>
+</movies>
